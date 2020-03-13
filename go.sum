@@ -1,2 +1,14 @@
+github.com/ianmadd/hab-source v0.0.0-20200313210427-cf1958cc7618 h1:LD5rvWx2u0hiEMxhXNFEBNx/nMQdAAUe2KI9HHC1OGY=
+github.com/ianmadd/hab-source v0.0.0-20200313210427-cf1958cc7618/go.mod h1:7K5DlTO/iWv1PKilX2zeYOIwuqr5WXeUb2DJbUlxkVk=
 github.com/ianmadd/hugo-xmin v0.0.0-20190816180901-982dfb320e8a h1:Ii8QADnCVL3wOJaOn9+Od2Dn9hRAdJ1OLzr4XqFdIM0=
 github.com/ianmadd/hugo-xmin v0.0.0-20190816180901-982dfb320e8a/go.mod h1:9DduG0PyrhE0xlpdLx9tg9Gp/PcyyodXRF8bvxB0T1U=
+github.com/ianmadd/hugo-xmin v0.0.0-20200313211638-03c81c37318e h1:n/ITVGMc5vRUPTTjk2AxM40W/C3314VaIVjSHZuavbs=
+github.com/ianmadd/hugo-xmin v0.0.0-20200313211638-03c81c37318e/go.mod h1:9DduG0PyrhE0xlpdLx9tg9Gp/PcyyodXRF8bvxB0T1U=
+github.com/ianmadd/other-source v0.0.0-20200313204714-8448d09bb059 h1:oiukLOJ/1lA37hZAUmYrTx6xphwHGNXOhIF35nRg/3c=
+github.com/ianmadd/other-source v0.0.0-20200313204714-8448d09bb059/go.mod h1:WWbZyiODJNUs0CFq379dyWaY9kzSsfwf5h/g3B0zHmo=
+github.com/ianmadd/work-source v0.0.0-20200313210605-87653f7c942f h1:NbpwxY+MKHqOpKBqUUr8PF6gF3EX91Me7QhIPvFvR7s=
+github.com/ianmadd/work-source v0.0.0-20200313210605-87653f7c942f/go.mod h1:K/NLx32VdqBPCmSJm+soEMGRo7Bt/LQYgGsAArFxd+Y=
+github.com/ianmadd/work-source v0.0.0-20200313213430-160ba2891497 h1:Sel2qd6bEgFg3IKJqxp27o/aL7Rbh/O8aHq36XCT82c=
+github.com/ianmadd/work-source v0.0.0-20200313213430-160ba2891497/go.mod h1:K/NLx32VdqBPCmSJm+soEMGRo7Bt/LQYgGsAArFxd+Y=
+github.com/ianmadd/work-source v0.0.0-20200313215507-4c1682175a77 h1:S0vzdJPTHSR2M0p4sskU/bYC1lbTWWbyGVLPG8UnTiU=
+github.com/ianmadd/work-source v0.0.0-20200313215507-4c1682175a77/go.mod h1:K/NLx32VdqBPCmSJm+soEMGRo7Bt/LQYgGsAArFxd+Y=

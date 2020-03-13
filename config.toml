@@ -11,6 +11,30 @@ footnotereturnlinkcontents = "↩"
   [[module.imports]]
     path = "github.com/ianmadd/hugo-xmin"
 
+    [[module.imports]]
+    path = "github.com/ianmadd/other-source"
+    disabled = false
+
+    [[module.imports.mounts]]
+    source = "content/"
+    target = "content/"
+
+    [[module.imports]]
+    path = "github.com/ianmadd/work-source"
+    disabled = false
+
+    [[module.imports.mounts]]
+    source = "content/"
+    target = "content/"
+
+    [[module.imports]]
+    path = "github.com/ianmadd/hab-source"
+    disabled = false
+
+    [[module.imports.mounts]]
+    source = "content/"
+    target = "content/"
+
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"
     note = "/note/:year/:month/:day/:slug/"
