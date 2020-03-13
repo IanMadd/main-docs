@@ -12,3 +12,5 @@ github.com/ianmadd/work-source v0.0.0-20200313213430-160ba2891497 h1:Sel2qd6bEgF
 github.com/ianmadd/work-source v0.0.0-20200313213430-160ba2891497/go.mod h1:K/NLx32VdqBPCmSJm+soEMGRo7Bt/LQYgGsAArFxd+Y=
 github.com/ianmadd/work-source v0.0.0-20200313215507-4c1682175a77 h1:S0vzdJPTHSR2M0p4sskU/bYC1lbTWWbyGVLPG8UnTiU=
 github.com/ianmadd/work-source v0.0.0-20200313215507-4c1682175a77/go.mod h1:K/NLx32VdqBPCmSJm+soEMGRo7Bt/LQYgGsAArFxd+Y=
+github.com/ianmadd/work-source v0.0.0-20200313215936-4c31760812da h1:HOuNIN3/9Nk+mX2WycGbSSUVMWM1d4AJy5APKZ63SSU=
+github.com/ianmadd/work-source v0.0.0-20200313215936-4c31760812da/go.mod h1:K/NLx32VdqBPCmSJm+soEMGRo7Bt/LQYgGsAArFxd+Y=
