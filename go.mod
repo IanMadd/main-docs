@@ -1,0 +1,5 @@
+module test
+
+go 1.14
+
+require github.com/ianmadd/hugo-xmin v0.0.0-20190816180901-982dfb320e8a // indirect
