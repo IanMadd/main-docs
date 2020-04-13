@@ -12,27 +12,12 @@ footnotereturnlinkcontents = "↩"
     path = "github.com/ianmadd/hugo-xmin"
 
     [[module.imports]]
-    path = "github.com/ianmadd/other-source"
+    path = "github.com/ianmadd/hab-source/content/hab"
     disabled = false
+    ignoreConfig = false
 
     [[module.imports.mounts]]
-    source = "content/"
-    target = "content/"
-
-    [[module.imports]]
-    path = "github.com/ianmadd/work-source"
-    disabled = false
-
-    [[module.imports.mounts]]
-    source = "content/"
-    target = "content/"
-
-    [[module.imports]]
-    path = "github.com/ianmadd/hab-source"
-    disabled = false
-
-    [[module.imports.mounts]]
-    source = "content/"
+    source = "."
     target = "content/"
 
 [permalinks]
