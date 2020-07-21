@@ -10,16 +10,16 @@ footnotereturnlinkcontents = "↩"
 
 [module]
   [[module.imports]]
-    path = "github.com/ianmadd/hugo-xmin"
+    path = "github.com/LukasJoswiak/etch"
 
     [[module.imports]]
-    path = "github.com/ianmadd/hab-source/content/hab"
+    path = "github.com/ianmadd/hab-source"
     disabled = false
     ignoreConfig = false
 
     [[module.imports.mounts]]
-    source = "."
-    target = "content/"
+    source = "content"
+    target = "content"
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"

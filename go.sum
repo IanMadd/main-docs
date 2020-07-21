@@ -1,4 +1,6 @@
-github.com/ianmadd/hab-source/content/hab v0.0.0-20200413235052-21e1832976fe h1:72wA5BeWXwwwgnevTKhJkabewXpXgkcbjdLX/lMoGAY=
-github.com/ianmadd/hab-source/content/hab v0.0.0-20200413235052-21e1832976fe/go.mod h1:ehiM4Kkailh2qfeoQNckRkHjJxtyG9yuh7crtBrG8Gg=
-github.com/ianmadd/hugo-xmin v0.0.0-20200313211638-03c81c37318e h1:n/ITVGMc5vRUPTTjk2AxM40W/C3314VaIVjSHZuavbs=
-github.com/ianmadd/hugo-xmin v0.0.0-20200313211638-03c81c37318e/go.mod h1:9DduG0PyrhE0xlpdLx9tg9Gp/PcyyodXRF8bvxB0T1U=
+github.com/LukasJoswiak/etch v0.0.0-20200602023247-f8e5ca54ec2b h1:B7QW3pBTao6nXj/gkCqKiBUAlZBRJO94U61sj7GM2Qs=
+github.com/LukasJoswiak/etch v0.0.0-20200602023247-f8e5ca54ec2b/go.mod h1:tdCjHyDbi/JUH+PwT7EuRAoTu1tIrDvTQgZ5UJLNe7Q=
+github.com/LukasJoswiak/etch v0.0.0-20200630065645-5aaf85b2cf1d h1:1XEBlw4QOnWVQthbXSiC10V4F3etpDl6x/SCPaP7YB4=
+github.com/LukasJoswiak/etch v0.0.0-20200630065645-5aaf85b2cf1d/go.mod h1:tdCjHyDbi/JUH+PwT7EuRAoTu1tIrDvTQgZ5UJLNe7Q=
+github.com/ianmadd/hab-source v0.0.0-20200413235052-21e1832976fe h1:UoCfYUKjOCJuTi0JLrOBEs8iW8PYVA7KuiwInFvaju8=
+github.com/ianmadd/other-source v0.0.0-20200317003841-b1da785f5974/go.mod h1:WWbZyiODJNUs0CFq379dyWaY9kzSsfwf5h/g3B0zHmo=
